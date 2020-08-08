@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+}
+
+
+.container-fluid .row div div {
+    background-color: lightgray;
+}
+
+.container-fluid .row div div div {
+    
+    margin: 15px;
+
+}
+
+.row h2 {
+    text-align: center;
+    font-weight: bold;
+}
+
+.navbar-nav {
+    background-color: lightgreen;
+}
